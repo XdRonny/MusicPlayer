@@ -8,7 +8,6 @@ tgcrypto
 python-dotenv
 py-tgcalls==0.8.6
 youtube-search-python==1.4.6
-git+https://github.com/asmsafone/downloader
 git+https://github.com/ytdl-patched/yt-dlp 
 python-arq 
 TgCrypto 
