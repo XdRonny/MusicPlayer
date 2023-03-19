@@ -6,6 +6,11 @@ aiofiles
 pyrogram==1.4.16
 tgcrypto
 python-dotenv
-py-tgcalls==0.8.2
-youtube-search-python
+py-tgcalls==0.8.6
+youtube-search-python==1.4.6
 git+https://github.com/asmsafone/downloader
+git+https://github.com/ytdl-patched/yt-dlp 
+python-arq 
+TgCrypto 
+python-dotenv 
+wget
